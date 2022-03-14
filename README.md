@@ -1,5 +1,5 @@
 # RWRtoolkit-data
-Multiplex network (Rdata) objects for use with [kb_djornl KBase app](https://github.com/kbaseapps/kb_djornl/)
+Multiplex network (Rdata) objects for use with [kb_djornl RWRtools KBase app.](https://github.com/kbaseapps/kb_djornl/)
 
 ## Multiplex Networks
 
