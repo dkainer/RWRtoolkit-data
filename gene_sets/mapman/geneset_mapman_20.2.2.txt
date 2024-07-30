@@ -1,0 +1,13 @@
+MM_coldstress	AT2G15970
+MM_coldstress	AT2G17870
+MM_coldstress	AT2G21060
+MM_coldstress	AT2G23680
+MM_coldstress	AT2G42530
+MM_coldstress	AT2G42540
+MM_coldstress	AT3G50830
+MM_coldstress	AT4G25580
+MM_coldstress	AT4G36020
+MM_coldstress	AT4G37220
+MM_coldstress	AT4G38680
+MM_coldstress	AT5G52300
+MM_coldstress	AT5G52310

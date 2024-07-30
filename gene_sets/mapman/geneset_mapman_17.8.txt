@@ -1,0 +1,17 @@
+MM_salicylicacid	AT4G26420
+MM_salicylicacid	AT1G19640
+MM_salicylicacid	AT2G14060
+MM_salicylicacid	AT3G11480
+MM_salicylicacid	AT3G21950
+MM_salicylicacid	AT4G36470
+MM_salicylicacid	AT5G04370
+MM_salicylicacid	AT5G04380
+MM_salicylicacid	AT5G38020
+MM_salicylicacid	AT5G66430
+MM_salicylicacid	AT1G54540
+MM_salicylicacid	AT1G65690
+MM_salicylicacid	AT2G22180
+MM_salicylicacid	AT2G27080
+MM_salicylicacid	AT4G39745
+MM_salicylicacid	AT5G21130
+MM_salicylicacid	AT5G36970
